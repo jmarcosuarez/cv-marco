@@ -1,6 +1,6 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
+name: Marco Nietzsche
 address:
 - Humboldtstraße 36
 - 99425 Weimar
@@ -47,7 +47,7 @@ education:
   city: Naumburg
 
 # Settings
-mainfont: Hoefler Text
+mainfont: TeX Gyre Pagella
 fontsize: 10pt
 lang: English
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
