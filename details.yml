@@ -10,28 +10,26 @@
 ### Personal details ###
 
 firstname: Marco
-lastname: Suarez
+lastname: Suárez
 # Adjust this to the job you are applying for
-title: Web Ddeveloper
-birthdate: 15-10-1844
+title: Web Developer
+# birthdate: 15-10-1844
 address:
-- Humboldtstraße 36
-- 99425 Weimar
-- Prussia
-phone: +49 03643 545400
-email: friedrich@thevoid.de
+- 39 Havil Street
+- SE 7SD London
+- London
+phone: +44 07000 00000
+email: jmarcosuarez@live.com
 # Insert URLs without http://
 urls:
-- wki.pe/friedrich_nietzsche
-- twitter.com/tinynietzsche
-- dribbble.com/tinynietzsche
-- linkedin.com/in/tinynietzsche
+- es.linkedin.com/in/jmarcosuarez
+- github.com/jmarcosuarez
 
 ### Sections ###
 
 # Describe your intention, what makes you tick and why you want to work here.
 intro:
-  - I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite.
+  - I there’s something that defines me is side-projects. I live and breathe web dev. One of my side-projects was so huge that it could perfectly be the seed for a great startup. Giving solutions so problems people have is my expertise and the need to find news and better ways to solve problems has been always at the back of my head.
 
 # Your skills and interests that are essential to the job
 skillstitle: Skills & areas of interest
@@ -42,45 +40,64 @@ skills:
 - Anti-foundationalism, Philosophy of history
 
 # This way you can list things you've accomplished without needing to associate them with a class or company. I however discourage detailed descriptions of these projects. Titles should be eye caching and be used for inspiration of talking points during the interview.
-projectstitle: Projects
-projects:
-- Apollonian and Dionysian
-- Perspectivism
-- Death of God and nihilism
+# projectstitle: Projects
+# projects:
+# - Apollonian and Dionysian
+# - Perspectivism
+# - Death of God and nihilism
 
 # Your spoken languages, preferably only name those professionally usable
 languagestitle: Languages
 languages:
-- language: German
+- language: Spanish
   proficiency: native speaker
 - language: English
   proficiency: full professional proficiency
 
 # Experience regarding the job you are applying for, if beginning out only use this section, not other work experience.
-experiencetitle: Business Experience # or Previous Experience
+experiencetitle: Project History # or Previous Experience
 experience:
-- beginyears: nov 1879
-  endyears: jan 1889
-  employer: Freiberufler
-  profession: Freier Philisoph
-  city: Sils-Maria
+- beginyears: 2016
+  endyears: Present
+  employer: Project Development Team
+  profession: Remote kanban team member
+  city: Spain
   details:
-    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-    - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-- beginyears: feb 1869
-  endyears: nov 1879
-  employer: Universität Basel
-  profession: Professor für klassische Philologie
-  city: Basel
+    - As a team member of a startup which aims internationally, I am proud of being part of the development team of his web app.
+    - Improve understanding of scrum values in complex project development 
+    - Collaborate with team to understand items in the Product Backlog 
+    - Deliver increment of product functionality in each sprint as set in goals 
+    - Self-organize in how best to accomplish work 
+    - Linting and testing code is emphasized during all the process 
+    - Front-end technologies used are Node, React/Redux with Webpack 
+    - Back-end technologies used are Express, Socket.io, GraphQL, MongoDB
+
+- beginyears: 2013
+  endyears: 2016
+  employer: Fincaspace - fincaspace.com
+  profession: Full stack web developer
+  city: Spain
   details:
-    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-- beginyears: feb 1869
-  endyears: nov 1879
-  employer: Universität Basel
-  profession: Professor für klassische Philologie
-  city: Basel
+    - As founder of Fincaspace, I solely developed a web app that manages the office work and documents in a homeowners’ association making administrators more efficient in their communications    
+    - Integrated user authentication with Google
+    - Use of Google Cloud Storage web service to store documents
+    - Admin manages listings for different homeowners associations, with their apartments and users, as well as listings for documents published 
+    - Admin can publish documents that are accessible to all homeowners instantly
+    - Bulk communication to all homeowners possible though email templates
+    - Front-end technologies used are ExtJS, a JavaScript MVC framework, which created all views and actions in the app 
+    - Back-end technologies include Symfony3, an object oriented PHP framework. Chosen for the REST API cores of the app as well as for connecting to the MySQL database.
+    - Finally, the app has been loaded to a PaaS service provider called OPENSHIFT of RedHat, where deployment was made with Git version control. 
+    - Wrote up technical manuals and user instructions. See http://guia.fincaspace.com
+- beginyears: 2011
+  endyears: 2015
+  employer: IguanaLocalMedia
+  profession: Web designer / Marketeer
+  city: Spain
   details:
-    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    - I have over 5 years experience in the creation of websites for companies in different sectors.
+    - I create work that improved the visibility of clients 
+    - Technologies used are Bootstrap and WordPress 
+    - Notions learned range from copywriting, SEO, Google Analytics,  Adwords and Facebook marketing
 
 # Work not directly related to the job you are applying for
 otherexperiencetitle: Other Work Experience
@@ -96,24 +113,30 @@ otherexperience:
 # Self explanatory
 educationtitle: Education
 education:
-- beginyears: 1867
-  endyears:
-  subject: Philology
-  institute: Leipzig Universität
-  city: Leipzig
-  degree: Master
+- beginyears: 2009
+  endyears: 2013
+  subject: Technical Engineering in Telecommunications (Bachelor)
+  institute: University of Las Palmas de Gran Canaria (ULPGC)
+  city: Spain
+  degree: Bachelor
   details:
-    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-- beginyears: 1864
+    - Equivalent to a bachelor's degree
+- beginyears: 2016
   endyears:
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
-  degree: Master
+  subject: Modern React with Redux
+  institute: Udemy.com
+  city:
+  degree: Online Course
   details:
-    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-    - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+    - Master the fundamentals of React and Redux
+- beginyears: 2016
+  endyears:
+  subject: Advanced React with Redux
+  institute: Udemy.com
+  city:
+  degree: Online Course
+  details:
+    - Detailed walkthroughs on advanced React and Redux concepts
 # Note special people who can endorse/recommend you, must be directly related to the job you are applying for
 endorsementstitle: Endorsements # or Recommendations
 endorsements:

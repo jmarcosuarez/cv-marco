@@ -154,7 +154,7 @@ $for(address)$
 $address$\\
 $endfor$
 \vspace{\baselineskip}
-$birthdate$\\
+% $birthdate$\\
 
 \end{minipage}
 % COLUMN 2
@@ -259,7 +259,6 @@ $endif$
 $endfor$
 $endif$
 
-$if(education)$
 \section*{$educationtitle$}
 $for(education)$
 \note{$education.beginyears$
@@ -278,7 +277,6 @@ $if(education.details)$
 \end{itemize}
 $endif$
 $endfor$
-$endif$
 
 $if(endorsements)$
 \section*{$endorsementstitle$}
