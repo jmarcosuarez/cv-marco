@@ -166,8 +166,8 @@ information:
 
 ### Settings ###
 
-photo: "NietzscheA.jpg" # Photo filename with extension, .PNG or .JPG files preferably, dont use special characters in your filename
-mainfont: TeX Gyre Pagella # fonts: Hoefler Text / OFL Sorts Mill Goudy / Sabon LT Std / Cardo / Linux Libertine O | you can use any good font, put your .otf in the fonts dir
+photo: "marco.png" # Photo filename with extension, .PNG or .JPG files preferably, dont use special characters in your filename
+mainfont: Linux Libertine O # fonts: Hoefler Text / OFL Sorts Mill Goudy / Sabon LT Std / Cardo / Linux Libertine O | you can use any good font, put your .otf in the fonts dir
 fontsize: 10pt # this template is based upon 10pt, ratios may not scale accordingly, options: 10pt or 11pt or 12pt
 lang: english # do not use capital letters: dutch / german
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=30mm # This document should NOT be printed double sided!
