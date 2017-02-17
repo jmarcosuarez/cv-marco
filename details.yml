@@ -34,10 +34,11 @@ intro:
 # Your skills and interests that are essential to the job
 skillstitle: Skills & areas of interest
 skills:
-- Aesthetics, Ethics, Metaphysics, Nihilism
-- Psychology, Ontology, Poetry, \latex
-- Voluntarism, Tragedy, Fact–value distinction
-- Anti-foundationalism, Philosophy of history
+- Node, ExtJS, ReactJS
+- PHP, Symfony 
+- MySQL, phpMyAdmin, Sequelize, Swagger
+- OpenShift, Git, PaaS 
+- TDD, Mocha, Chai, Enzyme
 
 # This way you can list things you've accomplished without needing to associate them with a class or company. I however discourage detailed descriptions of these projects. Titles should be eye caching and be used for inspiration of talking points during the interview.
 # projectstitle: Projects
@@ -125,16 +126,16 @@ education:
   endyears:
   subject: Modern React with Redux
   institute: Udemy.com
-  city: Online Course
-  degree:
+  city: Online
+  degree: Course
   details:
     - Master the fundamentals of React and Redux
 - beginyears: 2016
   endyears:
   subject: Advanced React with Redux
   institute: Udemy.com
-  city: Online Course
-  degree:
+  city: Online
+  degree: Course
   details:
     - Detailed walkthroughs on advanced React and Redux concepts
 # Note special people who can endorse/recommend you, must be directly related to the job you are applying for
