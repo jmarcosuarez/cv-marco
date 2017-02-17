@@ -1,6 +1,7 @@
 # LaTeX resume
-This is my personal LaTeX CV. If you like yours or like to know more see:
 
+LaTeX is a markup language that permits to stay away from word processors and create your cv from a yaml content file and a LaTeX template, relying on Pandoc to autogenerate the resultant PDF file. The LaTeX boilerplates would solve multiple problems. Namely content and markup abstraction, versioning in combination with git and last but not least, expert typesetting.
+This is my personal LaTeX CV. If you like yours or just like to know more see:
 
 ## Recommended readings
 
@@ -8,7 +9,6 @@ This is my personal LaTeX CV. If you like yours or like to know more see:
 - [A Curriculum Vitae LaTeX Typesetting Automation Adventure with Gitlab](https://medium.com/@dimitrieh/a-curriculum-vitae-latex-typesetting-automation-adventure-with-gitlab-6ac233c0b66b#.c8qgv24e8) Great template to part from
 - [Dimitrie Hoekstra / LaTeX Résumé and Cover letter](https://gitlab.com/dimitrieh/curriculumvitae-ci-boilerplate/tree/master) The code from the medium article cited previously
 This is how it looks like: 
-
 - [ PDF - LaTeX Résumé Template from Dimitrie Hoekstra](http://dimitrieh.gitlab.io/curriculumvitae-ci-boilerplate/FriedrichNietzscheCV_A.pdf)
 
 ## See also

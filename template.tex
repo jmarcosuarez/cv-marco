@@ -170,15 +170,20 @@ $endfor$
 
 \end{minipage}
 % COLUMN 3
-% \begin{minipage}[t]{0.2\linewidth}
-% \vspace{-1.4cm}
-% \begin{flushright}
-% \begin{tikzpicture}
+\begin{minipage}[t]{0.2\linewidth}
+\vspace{-1.4cm}
+\begin{flushright}
+\begin{tikzpicture}
 % \node[circle,inner sep=.85cm,fill overzoom image=$photo$] (A) {};
-% \end{tikzpicture}
-% \end{flushright}
+\node[circle,inner sep=.85cm, path picture={
+               \node at (path picture bounding box.center){
+                   \includegraphics[width=2.5cm]{$photo$}
+               };
+           }] (A) {};
+\end{tikzpicture}
+\end{flushright}
 
-% \end{minipage}
+\end{minipage}
 
 $if(intro)$
 \vspace{.915cm}
