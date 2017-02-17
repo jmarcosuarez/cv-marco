@@ -9,7 +9,7 @@ This is my personal LaTeX CV. If you like yours or like to know more see:
 - [Dimitrie Hoekstra / LaTeX Résumé and Cover letter](https://gitlab.com/dimitrieh/curriculumvitae-ci-boilerplate/tree/master) The code from the medium article cited previously
 This is how it looks like: 
 
-- [Dimitrie Hoekstra / LaTeX Résumé and Cover letter](http://dimitrieh.gitlab.io/curriculumvitae-ci-boilerplate/FriedrichNietzscheCV_A.pdf)
+- [ PDF - LaTeX Résumé Template from Dimitrie Hoekstra](http://dimitrieh.gitlab.io/curriculumvitae-ci-boilerplate/FriedrichNietzscheCV_A.pdf)
 
 ## See also
 
