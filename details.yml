@@ -1,54 +1,154 @@
 ---
-# Personal details
-name: Marco Nietzsche
+### Macro's ###
+
+# use \latex for the special LaTeX symbol
+# use \amper for the special ampersand symbol
+# use \andIquote for special hanging punctuation at the beginning of a paragraph
+# use -- for a nut dash or n-dash
+# use --- for a mutton dash or m-dash
+
+### Personal details ###
+
+firstname: Marco
+lastname: Suarez
+# Adjust this to the job you are applying for
+title: Web Ddeveloper
+birthdate: 15-10-1844
 address:
 - Humboldtstraße 36
 - 99425 Weimar
 - Prussia
-phone: "+49 03643 545400"
+phone: +49 03643 545400
 email: friedrich@thevoid.de
 # Insert URLs without http://
 urls:
 - wki.pe/friedrich_nietzsche
 - twitter.com/tinynietzsche
+- dribbble.com/tinynietzsche
+- linkedin.com/in/tinynietzsche
 
-# Sections
+### Sections ###
 
-intro: "I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
+# Describe your intention, what makes you tick and why you want to work here.
+intro:
+  - I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite.
 
+# Your skills and interests that are essential to the job
+skillstitle: Skills & areas of interest
 skills:
 - Aesthetics, Ethics, Metaphysics, Nihilism
-- Psychology, Ontology, Poetry, Value theory
+- Psychology, Ontology, Poetry, \latex
 - Voluntarism, Tragedy, Fact–value distinction
 - Anti-foundationalism, Philosophy of history
 
-experience:
-- years: 1879--1889
-  employer: Freiberufler
-  job: Freier Philisoph
-  city: Sils-Maria
-- years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußischen Artillerie
-  job: Kanonier
-  city: Naumburg
+# This way you can list things you've accomplished without needing to associate them with a class or company. I however discourage detailed descriptions of these projects. Titles should be eye caching and be used for inspiration of talking points during the interview.
+projectstitle: Projects
+projects:
+- Apollonian and Dionysian
+- Perspectivism
+- Death of God and nihilism
 
+# Your spoken languages, preferably only name those professionally usable
+languagestitle: Languages
+languages:
+- language: German
+  proficiency: native speaker
+- language: English
+  proficiency: full professional proficiency
+
+# Experience regarding the job you are applying for, if beginning out only use this section, not other work experience.
+experiencetitle: Business Experience # or Previous Experience
+experience:
+- beginyears: nov 1879
+  endyears: jan 1889
+  employer: Freiberufler
+  profession: Freier Philisoph
+  city: Sils-Maria
+  details:
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- beginyears: feb 1869
+  endyears: nov 1879
+  employer: Universität Basel
+  profession: Professor für klassische Philologie
+  city: Basel
+  details:
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- beginyears: feb 1869
+  endyears: nov 1879
+  employer: Universität Basel
+  profession: Professor für klassische Philologie
+  city: Basel
+  details:
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+# Work not directly related to the job you are applying for
+otherexperiencetitle: Other Work Experience
+otherexperience:
+- beginyears: dec 1867
+  endyears: jun 1868
+  employer: Preußischen Artillerie
+  profession: Kanonier
+  city: Naumburg
+  details:
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+# Self explanatory
+educationtitle: Education
 education:
-- year: 1867
+- beginyears: 1867
+  endyears:
   subject: Philology
   institute: Leipzig Universität
   city: Leipzig
-- year: 1864
+  degree: Master
+  details:
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- beginyears: 1864
+  endyears:
   subject: Abitur
   institute: Schulpforta
   city: Naumburg
+  degree: Master
+  details:
+    - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-# Settings
-mainfont: TeX Gyre Pagella
-fontsize: 10pt
-lang: English
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+# Note special people who can endorse/recommend you, must be directly related to the job you are applying for
+endorsementstitle: Endorsements # or Recommendations
+endorsements:
+- firstname: Paul
+  lastname: Deussen
+  profession: Indologist and Professor of Philosophy
+  company: University of Kiel
+  quote: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- firstname: Karl
+  lastname: Hillebrand
+  profession: Professor of Foreign Literature
+  company: Firenze
+  quote: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+# Additional information that can be of use.
+informationtitle: Additional Information
+information:
+- information_title: Drivers License
+  information_content: Yes, Type B (car)
+# - information_title: Rate
+#   information_content: 55,- p.h.
+# - information_title: Availability
+#   information_content: Not available on 5th of may - 8th of may
+# - information_title: Special Circumstances
+#   information_content: None
+
+### Settings ###
+
+photo: "NietzscheA.jpg" # Photo filename with extension, .PNG or .JPG files preferably, dont use special characters in your filename
+mainfont: TeX Gyre Pagella # fonts: Hoefler Text / OFL Sorts Mill Goudy / Sabon LT Std / Cardo / Linux Libertine O | you can use any good font, put your .otf in the fonts dir
+fontsize: 10pt # this template is based upon 10pt, ratios may not scale accordingly, options: 10pt or 11pt or 12pt
+lang: english # do not use capital letters: dutch / german
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=30mm # This document should NOT be printed double sided!
+geometrysecondarypagestop: 11mm # this will be minus! So 51mm - 21mm
+textcolor: "000000" # use hexcolor, 000000 for black
+linkcolor: "1EAEDB" # use hexcolor, FF0000 for red
+pagecolor: "FFFFFF" # use hexcolor, FFFFFF for white
 ---
