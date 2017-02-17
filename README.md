@@ -1,16 +1,15 @@
 # LaTeX resume
-This is my personal LaTeX CV. If you like yours or like to know whats that about see:
+This is my personal LaTeX CV. If you like yours or like to know more see:
 
 
 ## Recommended readings
 
-- [LaTeX CV bilerplate](https://github.com/mrzool/cv-boilerplate) A boilerplate to ease the pain of building and maintaining a CV or résumé using LaTeX.
-- [A Curriculum Vitae LaTeX Typesetting Automation Adventure with Gitlab](https://medium.com/@dimitrieh/a-curriculum-vitae-latex-typesetting-automation-adventure-with-gitlab-6ac233c0b66b#.c8qgv24e8) From here I took some ideas to make more interesting
-- [Dimitrie Hoekstra / LaTeX Résumé and Cover letter](https://gitlab.com/dimitrieh/curriculumvitae-ci-boilerplate/tree/master) The code from the medium artive cited previously
-
+- [LaTeX CV boilerplate](https://github.com/mrzool/cv-boilerplate) A boilerplate to ease the pain of building and maintaining a CV or résumé using LaTeX.
+- [A Curriculum Vitae LaTeX Typesetting Automation Adventure with Gitlab](https://medium.com/@dimitrieh/a-curriculum-vitae-latex-typesetting-automation-adventure-with-gitlab-6ac233c0b66b#.c8qgv24e8) Great template to part from
+- [Dimitrie Hoekstra / LaTeX Résumé and Cover letter](https://gitlab.com/dimitrieh/curriculumvitae-ci-boilerplate/tree/master) The code from the medium article cited previously
 This is how it looks like: 
 
-![alt tag](http://dimitrieh.gitlab.io/curriculumvitae-ci-boilerplate/FriedrichNietzscheCV_A.pdf)
+- [Dimitrie Hoekstra / LaTeX Résumé and Cover letter](http://dimitrieh.gitlab.io/curriculumvitae-ci-boilerplate/FriedrichNietzscheCV_A.pdf)
 
 ## See also
 
