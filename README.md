@@ -3,6 +3,16 @@
 LaTeX is a markup language that permits to stay away from word processors and create your cv from a yaml content file and a LaTeX template, relying on Pandoc to autogenerate the resultant PDF file. The LaTeX boilerplates would solve multiple problems. Namely content and markup abstraction, versioning in combination with git and last but not least, expert typesetting.
 This is my personal LaTeX CV. If you like yours or just like to know more see:
 
+## Getting started
+
+  - Fill details.yml with your personal details, work experience, education, and desired settings.
+  - To compile the PDF run:
+  ```
+  make
+  ``` 
+  - Tweak on template.tex until you're satisfied with the result.
+
+
 ## Recommended readings
 
 - [LaTeX CV boilerplate](https://github.com/mrzool/cv-boilerplate) A boilerplate to ease the pain of building and maintaining a CV or résumé using LaTeX.

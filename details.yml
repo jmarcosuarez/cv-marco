@@ -29,16 +29,16 @@ urls:
 
 # Describe your intention, what makes you tick and why you want to work here.
 intro:
-  - I there’s something that defines me is side-projects. I live and breathe web dev. One of my side-projects was so huge that it could perfectly be the seed for a great startup. Giving solutions to problems people have is my expertise and the need to find news and better ways to solve problems has been always at the back of my head.
+  - A front-end developer with more than 5 years experience architecting and implementing software solutions for the desktop environment. I posses an uneasy matched talent for learning and exploring new technologies and practices, devising solutions and solving problems without sacrificing code quality.
+  - Having recently relocated to London, I see myself working onsite for an innovative company, developing products in JavaScript's React or Vue. And as part of a solid team, continuing being passionate about the work I do and driving my skills to perfection.
 
 # Your skills and interests that are essential to the job
 skillstitle: Skills & areas of interest
 skills:
-- Node, ExtJS, ReactJS
-- PHP, Symfony 
-- MySQL, phpMyAdmin, Sequelize, Swagger
-- OpenShift, Git, PaaS 
-- TDD, Mocha, Chai, Enzyme
+- Developing Optimized React + ES6 + Webpack Production builds
+- Modern CSS approaches= PostCSS + CSS-modules
+- Test Driven Development with Jest & Enzyme
+- Hybrid Agile Kanban/Scrum methodologies
 
 # This way you can list things you've accomplished without needing to associate them with a class or company. I however discourage detailed descriptions of these projects. Titles should be eye caching and be used for inspiration of talking points during the interview.
 # projectstitle: Projects
@@ -70,8 +70,7 @@ experience:
     - Deliver increment of product functionality in each sprint as set in goals 
     - Self-organize in how best to accomplish work 
     - Linting and testing code is emphasized during all the process 
-    - Front-end technologies used are Node, React/Redux with Webpack 
-    - Back-end technologies used are Express, Socket.io, GraphQL, MongoDB
+    - Front-end views with React/Redux, backend with Express and MongoDB
 
 - beginyears: 2013
   endyears: 2016
